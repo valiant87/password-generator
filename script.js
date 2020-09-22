@@ -58,6 +58,7 @@ function generatePassword() {
 }
 
 
+
 // * For this assignment, you will not be changing the HTML and CSS at all.
 //
 // * You will need a generatePassword function is called when the user

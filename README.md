@@ -1,10 +1,10 @@
-## JavaScript - Password Generator
+# JavaScript - Password Generator
 ---
-### About
+## About
 Below is a simple password generator that is is made of [HTML](https://www.w3schools.com/html),[CSS](https://www.w3schools.com/css) and [JavaScript](https://www.w3schools.com/js/).With this we can generate a random password based on user choice of complexity and characters that will yield over 2 million combinations before repeating itself.
 ___
 
-### [Project](https://valiant87.github.io/password-generator/.)
+## [Project](https://valiant87.github.io/password-generator/.)
 ![password-generator](assets/password-generator.png)
 * User selected criteria
 * 8 to 128 characters variations
@@ -30,21 +30,26 @@ ___
     ```return results.join("");```
     * Functions
 
->Above syntaxes are used for refference and examples only.For sourse code and more information view the repo.
+>Above syntaxes are used for refference and examples only.For sourse code and more information click on [Current Repository](https://github.com/valiant87/password-generator).
 ---
-### Sources    
->* [owasp](https://www.owasp.org)
+## Sources    
+>* [OWASP](https://www.owasp.org)
 >* [W3Schools](https://www.w3schools.com/cert/cert_javascript.asp)
 >* [Google](http://google.com)
 >* [Stack Overflow](http://stackoverflow.com)
+>* [MDN web docs](https://developer.mozilla.org/en-US/)
 ___
-### Colaborators
-* [Val Nimirenco](https://github.com/valiant87)
-* [valnimirenco@gmail.com](valnimirenco@gmail.com)
-* [Current Repository](https://valiant87.github.io/password-generator/)
+## Colaborators
+* Valerian Nimirenco
+* Email: valnimirenco@gmail.com
 ___
-
-
+## Directory
+* [My GitHub](https://github.com/valiant87)
+* [Current Repository](https://github.com/valiant87/password-generator)
+* [Password Generator](https://valiant87.github.io/password-generator/.)
+---
+***License: none***
+ 
     
 
    
